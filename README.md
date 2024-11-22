@@ -1,4 +1,4 @@
-
+[![Build and Push Docker Image](https://github.com/nogibjj/Su_Zhang_Dockerized_Application/actions/workflows/build.yml/badge.svg)](https://github.com/nogibjj/Su_Zhang_Dockerized_Application/actions/workflows/build.yml)
 
 # Su_Zhang_Dockerized_Application
 
@@ -94,7 +94,7 @@ make clean
 
    ![image](./pics/dockerhub.png)
 
-The application is available on Docker Hub through this [link] (https://hub.docker.com/repository/docker/zhangsu0528/de_dockerized)
+The application is available on Docker Hub through this [link](https://hub.docker.com/repository/docker/zhangsu0528/de_dockerized)
 
 ```bash
 docker pull zhangsu0528/de_dockerized:latest
