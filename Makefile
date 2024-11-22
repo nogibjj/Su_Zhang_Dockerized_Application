@@ -1,6 +1,3 @@
-# include env variables from .env file
-include .env
-
 # Define the image name
 IMAGE_NAME = de_dockerized
 DOCKER_ID_USER = zhangsu0528
